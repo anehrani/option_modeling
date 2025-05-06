@@ -1,0 +1,10 @@
+# pyproject.toml
+[project]
+name = "option_project"
+version = "0.1.0"
+dependencies = [
+  "requests",
+  "pandas",
+  "ccxt"
+
+]
